@@ -1,0 +1,13 @@
+C:\workspace\dotnet\projeto2_series\obj\Debug\netcoreapp3.1\projeto2_series.csprojAssemblyReference.cache
+C:\workspace\dotnet\projeto2_series\obj\Debug\netcoreapp3.1\projeto2_series.AssemblyInfoInputs.cache
+C:\workspace\dotnet\projeto2_series\obj\Debug\netcoreapp3.1\projeto2_series.AssemblyInfo.cs
+C:\workspace\dotnet\projeto2_series\obj\Debug\netcoreapp3.1\projeto2_series.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet\projeto2_series\bin\Debug\netcoreapp3.1\projeto2_series.exe
+C:\workspace\dotnet\projeto2_series\bin\Debug\netcoreapp3.1\projeto2_series.deps.json
+C:\workspace\dotnet\projeto2_series\bin\Debug\netcoreapp3.1\projeto2_series.runtimeconfig.json
+C:\workspace\dotnet\projeto2_series\bin\Debug\netcoreapp3.1\projeto2_series.runtimeconfig.dev.json
+C:\workspace\dotnet\projeto2_series\bin\Debug\netcoreapp3.1\projeto2_series.dll
+C:\workspace\dotnet\projeto2_series\bin\Debug\netcoreapp3.1\projeto2_series.pdb
+C:\workspace\dotnet\projeto2_series\obj\Debug\netcoreapp3.1\projeto2_series.dll
+C:\workspace\dotnet\projeto2_series\obj\Debug\netcoreapp3.1\projeto2_series.pdb
+C:\workspace\dotnet\projeto2_series\obj\Debug\netcoreapp3.1\projeto2_series.genruntimeconfig.cache
