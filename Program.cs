@@ -152,8 +152,8 @@ namespace projeto2_series
             Console.WriteLine("C - Limpar Tela");
             Console.WriteLine("X - Sair");
             Console.WriteLine();
-
             string opcaoUsuario = Console.ReadLine().ToUpper();
+            
             Console.WriteLine();
             return opcaoUsuario;
         }
